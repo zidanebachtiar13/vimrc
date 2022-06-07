@@ -20,7 +20,7 @@ set ttymouse=sgr
 set mouse=a
 set tabstop=4
 set shiftwidth=4
-autocmd BufRead,BufNewFile *.htm,*.html setlocal tabstop=2 shiftwidth=2
+autocmd BufRead,BufNewFile *.htm,*.html,*.css setlocal tabstop=2 shiftwidth=2
 set nobackup
 set noswapfile
 set noundofile
