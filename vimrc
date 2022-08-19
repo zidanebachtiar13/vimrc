@@ -26,4 +26,5 @@ set noswapfile
 set noundofile
 call plug#begin()
 Plug 'tpope/vim-fireplace'
+Plug 'mattn/emmet-vim'
 call plug#end()
