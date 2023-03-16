@@ -27,4 +27,5 @@ set noundofile
 call plug#begin()
 Plug 'tpope/vim-fireplace'
 Plug 'mattn/emmet-vim'
+Plug 'captbaritone/better-indent-support-for-php-with-html'
 call plug#end()
